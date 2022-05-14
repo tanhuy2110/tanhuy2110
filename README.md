@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Kamora
+- 🔭 I’m currently working on NashTech
 - 🌱 I’m currently learning php, react
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
